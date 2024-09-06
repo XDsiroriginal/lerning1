@@ -1,0 +1,90 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+.top_div {
+	width: 100%;
+	height: 8vh;
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 3px solid black;
+	display: flex;
+	justify-content: center;
+}
+
+.top_center_text_and_logo_div {
+	width: 20%;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+	justify-content: center;
+    align-items: flex-end;
+}
+
+.top_logo {
+	height: 90%;
+	width: auto;
+}
+
+.top_tex_div {
+	height: 100%;
+	width: 50%;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	align-items: center;
+    justify-content: center;
+}
+
+.top_img_div {
+	width: 50%;
+	height: 100%;
+	margin: 0px;
+	display: flex;
+	align-items: flex-end;
+    justify-content: flex-start
+}
+
+.base_div {
+	height: 100%;
+	width: 100%;
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.left_base_div {
+	width: 40vw;
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+}
+
+.left_base_img {
+	width: 70%;
+	height: 25%;
+	margin-top: 5%;
+}
+.right_base_div {
+	width: 40vw;
+	height: auto;
+	padding: 0px;
+	margin: 0px;
+	display: flex;
+}
+
+.text_right_base_div {
+	width: 100%;
+	height: auto;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	flex-direction: column;
+    align-items: center;
+}
